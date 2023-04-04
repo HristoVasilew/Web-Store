@@ -3,7 +3,7 @@
 
 ## Features
 ### Manage users, user addresses, products and orders. As follows:
-#### *Users managment: getAllUsers, createUser, getUserByEmail, updateUser, deleteUser;
-#### *User Addresses managment: getAllAddressesForUserWithEmail, createAddress, updateAddress, deleteAllAddresses, deleteSpecificAddress;
-#### *Products managment: findAllProducts, createProduct, findByBarcode, updateProduct, deleteProduct;
-#### *Orders managment: getAllOrders, getAllOrdersForUserWithEmail, createOrder, updateOrder, deleteAllOrders, deleteSpecificOrder;
+#### * Users managment: getAllUsers, createUser, getUserByEmail, updateUser, deleteUser;
+#### * User Addresses managment: getAllAddressesForUserWithEmail, createAddress, updateAddress, deleteAllAddresses, deleteSpecificAddress;
+#### * Products managment: findAllProducts, createProduct, findByBarcode, updateProduct, deleteProduct;
+#### * Orders managment: getAllOrders, getAllOrdersForUserWithEmail, createOrder, updateOrder, deleteAllOrders, deleteSpecificOrder;
