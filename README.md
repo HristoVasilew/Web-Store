@@ -7,3 +7,9 @@
 * #### User Addresses managment: getAllAddressesForUserWithEmail, createAddress, updateAddress, deleteAllAddresses, deleteSpecificAddress;
 * #### Products managment: findAllProducts, createProduct, findByBarcode, updateProduct, deleteProduct;
 * #### Orders managment: getAllOrders, getAllOrdersForUserWithEmail, createOrder, updateOrder, deleteAllOrders, deleteSpecificOrder;
+
+### Custom converters to, from database.
+### Request and Response DTOs
+### Password Based Encription implemented
+### Custom Global Exception Handler and checked exeptions.
+### 
