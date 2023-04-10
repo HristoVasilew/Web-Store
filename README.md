@@ -1,29 +1,31 @@
 # Web-Store
-### Web-Store is a Java-based web application developed with the Spring framework. It offers CRUD (Create, Read, Update, Delete) functionality to manage items in a database using a user-friendly web interface.
+
+Web-Store is a Java-based web application developed with the Spring framework. It offers CRUD (Create, Read, Update, Delete) functionality to manage items in a database using a user-friendly web interface.
 
 ## Features
-* ### User Management: This feature includes a set of APIs to manage user data, such as creating new users, updating user details, deleting users, and fetching user details by email.
 
-* ### User Address Management: This feature enables users to manage their addresses. It includes APIs to fetch all the addresses associated with a user, create a new address, update or delete an existing address.
+* **User Management:** This feature includes a set of APIs to manage user data, such as creating new users, updating user details, deleting users, and fetching user details by email.
 
-* ### Product Management: This feature allows users to manage products in the store. It includes APIs to fetch all the products, create a new product, update an existing product, and delete a product.
+* **User Address Management:** This feature enables users to manage their addresses. It includes APIs to fetch all the addresses associated with a user, create a new address, update or delete an existing address.
 
-* ### Order Management: This feature provides APIs to manage orders. It includes APIs to fetch all orders, fetch orders by user email, create an order, update an existing order, and delete an order.
+* **Product Management:** This feature allows users to manage products in the store. It includes APIs to fetch all the products, create a new product, update an existing product, and delete a product.
 
-* ### Custom Converters: The application includes custom converters to convert data between the application and the database.
+* **Order Management:** This feature provides APIs to manage orders. It includes APIs to fetch all orders, fetch orders by user email, create an order, update an existing order, and delete an order.
 
-* ### Request and Response DTOs: The application implements Request and Response Data Transfer Objects to handle data exchange between the application and the client.
+* **Custom Converters:** The application includes custom converters to convert data between the application and the database.
 
-* ### Password-Based Encryption: The application implements password-based encryption to ensure secure storage of user passwords.
+* **Request and Response DTOs:** The application implements Request and Response Data Transfer Objects to handle data exchange between the application and the client.
 
-* ### Custom Global Exception Handler and Checked Exceptions: The application includes a custom exception handler to manage exceptions and provide informative error messages to users.
+* **Password-Based Encryption:** The application implements password-based encryption to ensure secure storage of user passwords.
 
-* ### Custom Validation Annotation: The application implements custom validation annotations to ensure data integrity and consistency.
+* **Custom Global Exception Handler and Checked Exceptions:** The application includes a custom exception handler to manage exceptions and provide informative error messages to users.
 
-* ### EmbeddedId Barcode for Product Entity: The application includes an EmbeddedId Barcode for the Product entity to provide a unique identifier for each product.
+* **Custom Validation Annotation:** The application implements custom validation annotations to ensure data integrity and consistency.
 
-* ### Transaction Management: The application includes transaction management to ensure the consistency and integrity of data.
+* **EmbeddedId Barcode for Product Entity:** The application includes an EmbeddedId Barcode for the Product entity to provide a unique identifier for each product.
 
-* ### OAuth Authentication: The application implements OAuth authentication to secure user data and protect against unauthorized access.
+* **Transaction Management:** The application includes transaction management to ensure the consistency and integrity of data.
+
+* **OAuth Authentication:** The application implements OAuth authentication to secure user data and protect against unauthorized access.
 
 Thank you for checking out Web-Store!
